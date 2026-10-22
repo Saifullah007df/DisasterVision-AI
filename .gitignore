@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+history.db
+history.db-*
+*.sqlite3
+.DS_Store
+.idea/
+.vscode/
